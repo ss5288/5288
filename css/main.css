@@ -1,0 +1,79 @@
+.header{
+
+	width: 100%;
+	height: 100px;
+	background: #f6f6f6;
+	border: 1px solid #ececec;
+/*	display: inline;*/
+/*	margin: 0 auto;*/
+/*	position: relative;*/
+
+}
+.neikuan{
+	/*display: inline;
+	float: left;
+	position: absolute;
+	left: 50px;
+	top:40px;*/
+	width: 1200px;
+	margin: 0 auto;
+	
+
+
+}
+.header.yuyan{
+	width: 145px;
+	height: 100px;
+	background: red;
+	float:left;
+}
+.zuowenzi{
+	font-size: 12px;
+	float: left;
+	color:;
+	line-height: ;
+	padding: 0 11px;
+	border: 1px solid #ececec;
+
+
+
+}
+.lonin{
+	font-size: 12;
+	color: #e40077;
+	padding-left: 15;
+	line-height: 24px;
+	padding-top: 1px;
+	height: 23px;
+	background:-img:;
+	background-repeat: no-repeat;
+	background-position: left center;
+
+}
+.lonin img{
+	margin-top: 6px;
+	/*margin-right: 2px;*/
+
+}
+.xian{
+	width: 1px;
+	height: 13px;
+	display: inline-block;
+
+	float: left;
+	background: #000;
+	margin-left: 11px;
+	margin-top:6px;
+}
+.ss-4gzq-box{
+	width: 1198px;
+	height: 425px;
+	border: 1px solid;
+	margin: 0 auto;
+}
+.ss-4gzq{
+	width: 1198px;
+	height: 425px;
+	border: 1px solid;
+	margin: 0 auto;
+}

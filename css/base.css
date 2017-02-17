@@ -1,0 +1,12 @@
+/*通用选择器*/
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}	
+a{
+	text-decoration: none;
+}
+body{
+	font-family: 微软雅黑；
+}	
